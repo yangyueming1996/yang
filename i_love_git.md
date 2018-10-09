@@ -1,3 +1,4 @@
-i love git 
+i love git. 
 is that true?
-i dont't know
+i don't know.
+hahahaha
